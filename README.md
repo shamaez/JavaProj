@@ -6,10 +6,16 @@ Hello! I'm Trisha ... 😃
 I’m a 18-year-old, IT college student in NU Clark. 
 
 ### Area of Interest:
-- Game Development (e.g., Roblox, Unity, Unreal) 🎮
+- Binge Watching
+- Playing video games
+-   - Roblox
+    - Call of Duty: Mobile
+- Cafe Hopping
 
 ---
 
 ## Programming Languages
 - Java ♨️
 
+## My Projects:
+[Midterm Lab Task 01]()
